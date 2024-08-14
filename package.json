@@ -1,0 +1,16 @@
+{
+  "name": "pass_gen",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dion Hobdy",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cli-table3": "^0.6.5",
+    "gradient-string": "^2.0.2",
+    "prompts": "^2.4.2"
+  }
+}
